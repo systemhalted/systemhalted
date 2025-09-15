@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @systemhalted
 - 👀 I’m interested in Programming Languages, System Design, Engineering Management, Philosophy, History, and Mathematics
-- 🌱 I currently lead Enterpise Integration Platforms and Document Management Platforms at Toyota Financial Services
+- 🌱 I currently lead Enterpise Integration Platforms and Document Management Platform at Toyota Financial Services
 - 💞️ I used to host two Podcasts - Nukkad Shukkad (Hinglish) and Indian Dad, American Kid (English). Planning to start one of them next year.
 - 📫 How to reach me: insanethoughts [at] live [dot] com.
 
